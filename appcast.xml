@@ -3,10 +3,10 @@
     <channel>
         <title>Bookme App - Appcast</title>
         <item>
-            <title>Bookme v1.0.11</title>
+            <title>Bookme v1.0.13</title>
             <description>QR Code share. bug fixes</description>
-            <pubDate>Sun, 31 Jun 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.t0it.bookme" sparkle:version="1.0.11" sparkle:os="android" />
+            <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.t0it.bookme" sparkle:version="1.0.13" sparkle:os="android" />
         </item>
     </channel>
 </rss>
